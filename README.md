@@ -4,7 +4,7 @@
 🔭 I’m currently working on ML projects<br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning AI / ML theory
 
 ## 🌐 Socials:
-[Reach Me Through My Portfolio Website](https://3d-portfolio-tjusab.vercel.app/)<br>
+[Reach Me Through My Portfolio Website](https://3d-portfolio-tjusab.vercel.app/)<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taybajusab/) 
 
 # 💻 Tech Stack:
