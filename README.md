@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on ML projects<br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning AI / ML theory
+🔭 I’m currently working on Mobile Applications<br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I would like to find ways to combine mobile engineering with AI/ML and 3D applications.
 
 ## 🌐 Socials:
 [Reach Me Through My Portfolio Website](https://3d-portfolio-tjusab.vercel.app/)<br><br>
