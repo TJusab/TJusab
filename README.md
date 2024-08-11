@@ -5,7 +5,6 @@ class Tayba {
   private age: number = 21; // Or whatever your age is
   private university: string = "McGill University";
   private role: string = "Software Engineering Student";
-  private traits: string[] = ["overthinker", "tech enthusiast", "3D art lover"];
   private skills: string[] = ["JavaScript", "TypeScript", "Java", "Python", "3D Modeling"];
   private hobbies: string[] = ["Coding", "Self-Learning ML", "Gaming", "Overthinking everything"];
   
