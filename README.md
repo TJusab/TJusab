@@ -24,7 +24,11 @@ tayba.intro();
 ```
 
 ## 🌐 Socials:
-[![Check out my Website]<img width="50" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">](https://3d-portfolio-tjusab.vercel.app/)<br><br>
+<p align="center">
+  <a href="https://3d-portfolio-tjusab.vercel.app/">
+    <img width="50" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">
+  </a>
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taybajusab/) 
 
 # 💻 Tech Stack:
