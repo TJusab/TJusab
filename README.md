@@ -28,7 +28,7 @@ tayba.intro();
     <img width="50" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">
   </a>
   <br>
-  <strong>Check out my website!!</strong>
+  <strong>Check out my website!</strong>
 </p>
 
 <p align="justify">
