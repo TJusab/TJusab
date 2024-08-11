@@ -24,7 +24,7 @@ tayba.intro();
 ```
 
 ## 🌐 Socials:
-<p align="center">
+<p align="justify">
   <a href="https://3d-portfolio-tjusab.vercel.app/">
     <img width="50" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">
   </a>
@@ -32,7 +32,7 @@ tayba.intro();
   <strong>Check out my website!!</strong>
 </p>
 
-<p align="center">
+<p align="justify">
   <a href="https://www.linkedin.com/in/taybajusab/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
