@@ -2,7 +2,7 @@
 
 ```typescript
 class Tayba {
-  private age: number = 21; // Or whatever your age is
+  private age: number = 21;
   private university: string = "McGill University";
   private role: string = "Software Engineering Student";
   private skills: string[] = ["JavaScript", "TypeScript", "Java", "Python", "3D Modeling"];
