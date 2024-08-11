@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```typescript
 class Tayba {
   private age: number = 21; // Or whatever your age is
   private university: string = "McGill University";
@@ -24,7 +24,7 @@ tayba.intro();
 ```
 
 ## 🌐 Socials:
-[![Website]<img width="383" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">](https://3d-portfolio-tjusab.vercel.app/)<br><br>
+[![Website]<img width="100" alt="logo" src="https://github.com/user-attachments/assets/51aed9c4-33f4-4e26-9504-9d4a59c6dbcb">](https://3d-portfolio-tjusab.vercel.app/)<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taybajusab/) 
 
 # 💻 Tech Stack:
