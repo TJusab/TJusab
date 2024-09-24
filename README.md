@@ -6,7 +6,7 @@ class Tayba {
   private university: string = "McGill University";
   private role: string = "Software Engineering Student";
   private skills: string[] = ["JavaScript", "TypeScript", "Java", "Python", "3D Modeling"];
-  private hobbies: string[] = ["Coding", "Self-Learning ML", "Gaming", "Overthinking everything"];
+  private hobbies: string[] = ["Coding", "Self-Learning ML", "Gaming", "Did you get to this point :D"];
   
   constructor() {
     console.log("Hi, I'm Tayba! Welcome to my GitHub.");
